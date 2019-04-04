@@ -1,0 +1,2 @@
+void cracker();
+void encoder();
