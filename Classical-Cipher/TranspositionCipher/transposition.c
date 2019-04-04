@@ -50,7 +50,6 @@ int main()
           printf("#");
           continue;
         } 
-        //printf("%c",src[flag]);
         flag = flag + key ;
       }
     }
