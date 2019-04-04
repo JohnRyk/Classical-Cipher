@@ -5,7 +5,7 @@ In here I want to introduce some kinds of classical ciphers and provide some sim
 
 ## 1: CaeserCipher:
 
-	The caeser cipher have 26 likehoods its from 0 to 25
+	The caeser cipher have 25 likehoods its from 1 to 25
 	Enumeration is effective! 
 	
 	Caeser cipher is a typical representation of the classical substitute chipher 
