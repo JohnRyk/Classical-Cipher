@@ -16,6 +16,7 @@ In here I want to introduce some kinds of classical ciphers and provide some sim
 ```
 It can be seen as a enhanced version of Caeser.
 They are essentially the same. Subsitute. 
-But the keys range of TranspositionCipher is relate to the length of your cleartext ( Usually choose the key between 2 and the half length of your claertext )
+But the keys range of TranspositionCipher is relate to the length of your cleartext
+( Usually choose the key between 2 and the half length of your claertext )
 ```
 
